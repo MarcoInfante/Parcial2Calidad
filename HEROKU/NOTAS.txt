@@ -1,0 +1,13 @@
+https://peaceful-mountain-99902.herokuapp.com/
+
+https://naps.com.mx/blog/subir-mi-web-a-la-nube-usando-heroku/
+
+https://www.youtube.com/watch?v=nSd5Q-xmKQo
+
+https://www.youtube.com/watch?v=gleHFiWdKh8
+
+Al final vamos a tener que instalar: 
+- Cuenta de git 
+- cuanta del heroku
+- Heroku CLI
+- Tener PHP instalado (se recomienda instalar xampp para correr php)
